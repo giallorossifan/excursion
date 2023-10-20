@@ -1,0 +1,22 @@
+*{
+  box-sizing: content-box;
+  background-color: black;
+}
+
+.titleText{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.navbar{
+  text-align: center;
+}
+
+
+.download{
+  color: aquamarine;
+  font-size: 16px;
+  text-align: center;
+}
